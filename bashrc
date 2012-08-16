@@ -17,4 +17,5 @@ if [ "darwin11" = "$OSTYPE" ]; then
 elif [ "msys" = "$OSTYPE" ]; then
 	. $dotfiles/windows/microsoft/dotnet/aliases
 	. $dotfiles/windows/microsoft/system/aliases
+	. $dotfiles/windows/notepad++/aliases
 fi
