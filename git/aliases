@@ -26,6 +26,8 @@ alias git-new-work-dir='~/dotfiles/git/contrib/git-new-working-dir'
 
 alias ggui='git gui &'
 
+alias ggc='git gc'
+
 function gg {
  git commit -v -m "$*"
 }
