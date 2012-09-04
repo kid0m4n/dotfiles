@@ -1,0 +1,2 @@
+alias hfs='hadoop fs'
+alias hj='hadoop jar'

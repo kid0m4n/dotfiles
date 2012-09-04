@@ -18,11 +18,12 @@ alias gba='git branch -a'
 alias gbr='git branch -r'
 alias gcv='git cherry -v'
 alias grefs='git log --pretty=format:"refs for current branch are %C(yellow)%d%Creset" -1'
+alias gbuild='$dotfiles/git/contrib/buildVersion'
 
 alias gsr='git svn rebase'
 alias gsd='git svn dcommit'
 alias grc='git rebase --continue'
-alias git-new-work-dir='~/dotfiles/git/contrib/git-new-working-dir'
+alias git-new-work-dir='$dotfiles/git/contrib/git-new-working-dir'
 
 alias ggui='git gui &'
 

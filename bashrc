@@ -8,6 +8,7 @@ export dotfiles=~/.dotfiles
 . $dotfiles/guard/aliases
 . $dotfiles/bundler/aliases
 . $dotfiles/rails/aliases
+. $dotfiles/hadoop/aliases
 
 . $dotfiles/dirb/dirb.sh
 
