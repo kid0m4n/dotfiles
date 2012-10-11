@@ -19,4 +19,5 @@ elif [ "msys" = "$OSTYPE" ]; then
 	. $dotfiles/windows/microsoft/dotnet/aliases
 	. $dotfiles/windows/microsoft/system/aliases
 	. $dotfiles/windows/notepad++/aliases
+	. $dotfiles/windows/sublime/aliases
 fi
