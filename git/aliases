@@ -7,6 +7,7 @@ alias gpu='git push'
 alias gpl='git pull'
 alias gpr='git pull --rebase'
 alias gl="git log --graph --pretty=format:'%Cred%h%Creset%C(yellow)%d%Creset %s %Cgreen(%cr)%Creset %Cblue%an (%ae)%Creset' --abbrev-commit"
+alias gl5="gl -5"
 alias gpr='git pull --rebase'
 alias gd='git diff'
 alias gco='git checkout'
